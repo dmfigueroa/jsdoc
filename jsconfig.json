@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "strict": true,
+    "jsx": "react",
+    "noUncheckedIndexedAccess": true,
+    "lib": ["es2022", "dom", "dom.iterable"]
+  }
+}
